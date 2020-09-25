@@ -1,4 +1,4 @@
 # Game_01
-My first minigame made in Java
+Meu primeiro minigame feito em Java
 
-This first game is a top-down shooter, with 2 levels.
+Este minigame é um Top-down shooter com dois levels básicos.
